@@ -1,7 +1,8 @@
-$navbar-default-bg: #5bc0de;
+$navbar-default-bg: #337ab7;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
 
 #logo {
   float: left;
@@ -21,7 +22,6 @@ $navbar-default-bg: #5bc0de;
   background-image: asset-url('basic-carbine.jpg');
   background-size: cover;
   height: 550px;
-  margin-bottom: 0px;
   h1 {
     color: #fff;
     margin-bottom: 30px;
